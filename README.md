@@ -1,7 +1,7 @@
 # clsSerialization
 You can save your class objects with values to harddisk and load it back. The easiest way to save setting or small database.
 
-Private myObjekt As Object
+Private myObjekt As Object,
 Sub New(Objekt As Object) 
 myObjekt is your basic class holding other properties, in other classes.
 
